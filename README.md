@@ -42,4 +42,3 @@ This project involves analyzing the sentiment of WhatsApp chat messages to gain 
 
 ## Acknowledgments
 
-- Mention any external libraries or resources used.
